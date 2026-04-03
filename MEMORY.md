@@ -8,7 +8,7 @@
 
 ## User
 
-- User is a senior growth operator in SaaS, associated with Findbar.io.
+- User is Michael, a senior growth operator in SaaS, associated with Findbar.io.
 - User works with B2B clients, proposals, pricing, CX, and analytics.
 - User values clarity, speed, and commercial logic.
 - User often operates in hybrid strategy + execution roles.

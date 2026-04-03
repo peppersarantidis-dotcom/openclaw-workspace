@@ -3,7 +3,9 @@
 _Learn about the person you're helping. Update this as you go._
 
 - **Name:**
+  Michael
 - **What to call them:**
+  Michael
 - **Pronouns:** _(optional)_
 - **Timezone:**
   Europe/Berlin
