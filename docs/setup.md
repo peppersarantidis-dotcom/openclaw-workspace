@@ -15,6 +15,3 @@ Installed and configured.
 git --version
 git config --global user.name
 git config --global user.email
-ssh -T git@github.com
-
-
